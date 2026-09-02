@@ -109,6 +109,20 @@ This results in estimated 2024 net sales of:
 
 **$21.41M**
 
+## Key Visuals
+
+### Profitability Matrix
+
+![Profitability Matrix](./profitability-matrix.png)
+
+### Promotion ROI
+
+![Promotion ROI](./promotion-roi.png)
+
+### Revenue Waterfall
+
+![Revenue Waterfall](./revenue-waterfall.png)
+
 ## Recommendations
 
 1. **Prioritize organic shampoo expansion** based on its 275.82% historical growth and modeled contribution to the revenue bridge.
